@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#idea folder
+.idea/
+
+#scratch folder
+sratch/
+
+#terra form ignore stuff
+.tfstate
+.tfstate.backup
+.terraform/
+
